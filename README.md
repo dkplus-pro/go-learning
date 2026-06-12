@@ -42,6 +42,7 @@ examples/
 | 第 4 课 | 标准库 HTTP 服务 | [docs/lessons/04-standard-library-http.md](docs/lessons/04-standard-library-http.md) | [examples/lesson04-standard-library-http](examples/lesson04-standard-library-http) |
 | 第 5 课 | Context、超时与请求生命周期 | [docs/lessons/05-context-timeout-and-lifecycle.md](docs/lessons/05-context-timeout-and-lifecycle.md) | [examples/lesson05-context-timeout-and-lifecycle](examples/lesson05-context-timeout-and-lifecycle) |
 | 第 6 课 | 路由、中间件与 API 组织 | [docs/lessons/06-routing-middleware-and-api-shape.md](docs/lessons/06-routing-middleware-and-api-shape.md) | [examples/lesson06-routing-middleware-and-api-shape](examples/lesson06-routing-middleware-and-api-shape) |
+| 第 7 课 | 后端分层与内存版 Task API | [docs/lessons/07-layering-and-in-memory-task-api.md](docs/lessons/07-layering-and-in-memory-task-api.md) | [examples/lesson07-layering-and-in-memory-task-api](examples/lesson07-layering-and-in-memory-task-api) |
 
 每一课都会包含：
 
