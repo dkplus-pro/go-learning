@@ -44,6 +44,7 @@ examples/
 | 第 6 课 | 路由、中间件与 API 组织 | [docs/lessons/06-routing-middleware-and-api-shape.md](docs/lessons/06-routing-middleware-and-api-shape.md) | [examples/lesson06-routing-middleware-and-api-shape](examples/lesson06-routing-middleware-and-api-shape) |
 | 第 7 课 | 后端分层与内存版 Task API | [docs/lessons/07-layering-and-in-memory-task-api.md](docs/lessons/07-layering-and-in-memory-task-api.md) | [examples/lesson07-layering-and-in-memory-task-api](examples/lesson07-layering-and-in-memory-task-api) |
 | 第 8 课 | PostgreSQL 与持久化 | [docs/lessons/08-postgresql-and-persistence.md](docs/lessons/08-postgresql-and-persistence.md) | [examples/lesson08-postgresql-and-persistence](examples/lesson08-postgresql-and-persistence) |
+| 第 9 课 | 配置、日志与错误边界 | [docs/lessons/09-config-logging-and-error-boundaries.md](docs/lessons/09-config-logging-and-error-boundaries.md) | [examples/lesson09-config-logging-and-error-boundaries](examples/lesson09-config-logging-and-error-boundaries) |
 
 每一课都会包含：
 
