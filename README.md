@@ -37,6 +37,7 @@ examples/
 | 课次 | 主题 | 文档 | Demo |
 | --- | --- | --- | --- |
 | 第 1 课 | Hello Go 与最小工程 | [docs/lessons/01-hello-go.md](docs/lessons/01-hello-go.md) | [examples/lesson01-hello-go](examples/lesson01-hello-go) |
+| 第 2 课 | 类型、函数、错误处理 | [docs/lessons/02-types-functions-and-errors.md](docs/lessons/02-types-functions-and-errors.md) | [examples/lesson02-types-functions-and-errors](examples/lesson02-types-functions-and-errors) |
 
 每一课都会包含：
 
