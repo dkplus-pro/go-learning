@@ -39,6 +39,7 @@ examples/
 | 第 1 课 | Hello Go 与最小工程 | [docs/lessons/01-hello-go.md](docs/lessons/01-hello-go.md) | [examples/lesson01-hello-go](examples/lesson01-hello-go) |
 | 第 2 课 | 类型、函数、错误处理 | [docs/lessons/02-types-functions-and-errors.md](docs/lessons/02-types-functions-and-errors.md) | [examples/lesson02-types-functions-and-errors](examples/lesson02-types-functions-and-errors) |
 | 第 3 课 | 方法、接口与包设计 | [docs/lessons/03-methods-interfaces-and-packages.md](docs/lessons/03-methods-interfaces-and-packages.md) | [examples/lesson03-methods-interfaces-and-packages](examples/lesson03-methods-interfaces-and-packages) |
+| 第 4 课 | 标准库 HTTP 服务 | [docs/lessons/04-standard-library-http.md](docs/lessons/04-standard-library-http.md) | [examples/lesson04-standard-library-http](examples/lesson04-standard-library-http) |
 
 每一课都会包含：
 
