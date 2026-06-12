@@ -47,6 +47,7 @@ examples/
 | 第 9 课 | 配置、日志与错误边界 | [docs/lessons/09-config-logging-and-error-boundaries.md](docs/lessons/09-config-logging-and-error-boundaries.md) | [examples/lesson09-config-logging-and-error-boundaries](examples/lesson09-config-logging-and-error-boundaries) |
 | 第 10 课 | 用户、密码与 JWT 认证 | [docs/lessons/10-users-passwords-and-jwt.md](docs/lessons/10-users-passwords-and-jwt.md) | [examples/lesson10-users-passwords-and-jwt](examples/lesson10-users-passwords-and-jwt) |
 | 第 11 课 | 并发、后台任务与优雅关闭 | [docs/lessons/11-concurrency-background-jobs-and-shutdown.md](docs/lessons/11-concurrency-background-jobs-and-shutdown.md) | [examples/lesson11-concurrency-background-jobs-and-shutdown](examples/lesson11-concurrency-background-jobs-and-shutdown) |
+| 第 12 课 | 整合、测试与本地交付 | [docs/lessons/12-integration-testing-and-local-delivery.md](docs/lessons/12-integration-testing-and-local-delivery.md) | [examples/lesson12-integration-testing-and-local-delivery](examples/lesson12-integration-testing-and-local-delivery) |
 
 每一课都会包含：
 
