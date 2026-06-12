@@ -46,6 +46,7 @@ examples/
 | 第 8 课 | PostgreSQL 与持久化 | [docs/lessons/08-postgresql-and-persistence.md](docs/lessons/08-postgresql-and-persistence.md) | [examples/lesson08-postgresql-and-persistence](examples/lesson08-postgresql-and-persistence) |
 | 第 9 课 | 配置、日志与错误边界 | [docs/lessons/09-config-logging-and-error-boundaries.md](docs/lessons/09-config-logging-and-error-boundaries.md) | [examples/lesson09-config-logging-and-error-boundaries](examples/lesson09-config-logging-and-error-boundaries) |
 | 第 10 课 | 用户、密码与 JWT 认证 | [docs/lessons/10-users-passwords-and-jwt.md](docs/lessons/10-users-passwords-and-jwt.md) | [examples/lesson10-users-passwords-and-jwt](examples/lesson10-users-passwords-and-jwt) |
+| 第 11 课 | 并发、后台任务与优雅关闭 | [docs/lessons/11-concurrency-background-jobs-and-shutdown.md](docs/lessons/11-concurrency-background-jobs-and-shutdown.md) | [examples/lesson11-concurrency-background-jobs-and-shutdown](examples/lesson11-concurrency-background-jobs-and-shutdown) |
 
 每一课都会包含：
 
