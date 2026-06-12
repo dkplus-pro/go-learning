@@ -34,6 +34,10 @@ examples/
 
 完整课程大纲见 [docs/course-outline.md](docs/course-outline.md)。
 
+| 课次 | 主题 | 文档 | Demo |
+| --- | --- | --- | --- |
+| 第 1 课 | Hello Go 与最小工程 | [docs/lessons/01-hello-go.md](docs/lessons/01-hello-go.md) | [examples/lesson01-hello-go](examples/lesson01-hello-go) |
+
 每一课都会包含：
 
 - 学习目标
